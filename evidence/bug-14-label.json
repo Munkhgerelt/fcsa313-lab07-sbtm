@@ -1,0 +1,12 @@
+{
+  "observed": "Нэмэx",
+  "observedCodePoints": [
+    "U+041D",
+    "U+044D",
+    "U+043C",
+    "U+044D",
+    "U+0078"
+  ],
+  "expected": "Нэмэх",
+  "expectedFinalCodePoint": "U+0445"
+}

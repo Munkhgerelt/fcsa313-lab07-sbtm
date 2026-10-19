@@ -1,0 +1,1130 @@
+[
+  {
+    "time": "2026-10-19T15:01:16+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:02:16+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:03:16+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:04:16+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:05:16+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:06:17+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:07:17+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:08:17+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:09:17+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:10:17+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:11:17+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:12:17+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:13:17+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:14:17+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:15:18+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:16:18+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:17:18+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:18:18+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:19:18+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:20:18+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:21:18+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:22:18+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:23:19+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  },
+  {
+    "time": "2026-10-19T15:24:19+08:00",
+    "books": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Idle sentinel",
+          "author": "Session Author",
+          "year": "2026"
+        },
+        {
+          "id": 5,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "stats": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "data": {
+        "total": 6,
+        "newest": 2026
+      }
+    }
+  }
+]

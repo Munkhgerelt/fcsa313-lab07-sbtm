@@ -1,0 +1,1949 @@
+[
+  {
+    "case": "year-1000",
+    "oracle": "accept",
+    "time": "2026-10-19T14:31:58+08:00",
+    "elapsed_seconds": 60.029,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Year 1000",
+          "author": "Boundary Author",
+          "year": "1000"
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Year 1000",
+          "author": "Boundary Author",
+          "year": "1000"
+        }
+      ]
+    },
+    "stable": true
+  },
+  {
+    "case": "year-2100",
+    "oracle": "accept",
+    "time": "2026-10-19T14:33:00+08:00",
+    "elapsed_seconds": 60.029,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Year 2100",
+          "author": "Boundary Author",
+          "year": "2100"
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Year 2100",
+          "author": "Boundary Author",
+          "year": "2100"
+        }
+      ]
+    },
+    "stable": true
+  },
+  {
+    "case": "year-999",
+    "oracle": "reject",
+    "time": "2026-10-19T14:34:02+08:00",
+    "elapsed_seconds": 60.027,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Year 999",
+          "author": "Boundary Author",
+          "year": "999"
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Year 999",
+          "author": "Boundary Author",
+          "year": "999"
+        }
+      ]
+    },
+    "stable": true
+  },
+  {
+    "case": "year-2101",
+    "oracle": "reject",
+    "time": "2026-10-19T14:35:05+08:00",
+    "elapsed_seconds": 60.028,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Year 2101",
+          "author": "Boundary Author",
+          "year": "2101"
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Year 2101",
+          "author": "Boundary Author",
+          "year": "2101"
+        }
+      ]
+    },
+    "stable": true
+  },
+  {
+    "case": "year-decimal",
+    "oracle": "reject",
+    "time": "2026-10-19T14:36:07+08:00",
+    "elapsed_seconds": 60.028,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Decimal year",
+          "author": "Boundary Author",
+          "year": "1999.5"
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Decimal year",
+          "author": "Boundary Author",
+          "year": "1999.5"
+        }
+      ]
+    },
+    "stable": true
+  },
+  {
+    "case": "year-text",
+    "oracle": "reject",
+    "time": "2026-10-19T14:37:09+08:00",
+    "elapsed_seconds": 60.032,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Text year",
+          "author": "Boundary Author",
+          "year": "abc"
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Text year",
+          "author": "Boundary Author",
+          "year": "abc"
+        }
+      ]
+    },
+    "stable": true
+  },
+  {
+    "case": "year-negative",
+    "oracle": "reject",
+    "time": "2026-10-19T14:38:12+08:00",
+    "elapsed_seconds": 60.03,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Negative year",
+          "author": "Boundary Author",
+          "year": "-1"
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Negative year",
+          "author": "Boundary Author",
+          "year": "-1"
+        }
+      ]
+    },
+    "stable": true
+  },
+  {
+    "case": "missing-title",
+    "oracle": "reject",
+    "time": "2026-10-19T14:39:15+08:00",
+    "elapsed_seconds": 60.041,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "",
+          "author": "Missing Author",
+          "year": "2000"
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "",
+          "author": "Missing Author",
+          "year": "2000"
+        }
+      ]
+    },
+    "stable": true
+  },
+  {
+    "case": "missing-author",
+    "oracle": "reject",
+    "time": "2026-10-19T14:40:18+08:00",
+    "elapsed_seconds": 60.028,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Missing author",
+          "author": "",
+          "year": "2000"
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Missing author",
+          "author": "",
+          "year": "2000"
+        }
+      ]
+    },
+    "stable": true
+  },
+  {
+    "case": "missing-year",
+    "oracle": "reject",
+    "time": "2026-10-19T14:41:20+08:00",
+    "elapsed_seconds": 60.074,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Missing year",
+          "author": "Missing Author"
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Missing year",
+          "author": "Missing Author"
+        }
+      ]
+    },
+    "stable": true
+  },
+  {
+    "case": "empty-fields",
+    "oracle": "reject",
+    "time": "2026-10-19T14:42:26+08:00",
+    "elapsed_seconds": 60.029,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "",
+          "author": "",
+          "year": ""
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "",
+          "author": "",
+          "year": ""
+        }
+      ]
+    },
+    "stable": true
+  },
+  {
+    "case": "blank-fields",
+    "oracle": "reject",
+    "time": "2026-10-19T14:43:31+08:00",
+    "elapsed_seconds": 62.268,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "   ",
+          "author": "   ",
+          "year": "2000"
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 7,
+      "status": "curl: (7) Failed to connect to localhost:3000 after 2240 ms: Could not connect to server",
+      "body": null
+    },
+    "stable": false
+  },
+  {
+    "case": "duplicate-exact",
+    "oracle": "reject",
+    "time": "2026-10-19T14:44:33+08:00",
+    "elapsed_seconds": 60.03,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": "2008"
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": "2008"
+        }
+      ]
+    },
+    "stable": true
+  },
+  {
+    "case": "same-title-new-author",
+    "oracle": "accept",
+    "time": "2026-10-19T14:45:35+08:00",
+    "elapsed_seconds": 60.031,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Clean Code",
+          "author": "Another Author",
+          "year": "2008"
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Clean Code",
+          "author": "Another Author",
+          "year": "2008"
+        }
+      ]
+    },
+    "stable": true
+  },
+  {
+    "case": "same-author-new-title",
+    "oracle": "accept",
+    "time": "2026-10-19T14:46:38+08:00",
+    "elapsed_seconds": 60.028,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Another Book",
+          "author": "Robert C. Martin",
+          "year": "2008"
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Another Book",
+          "author": "Robert C. Martin",
+          "year": "2008"
+        }
+      ]
+    },
+    "stable": true
+  },
+  {
+    "case": "special-characters",
+    "oracle": "preserve",
+    "time": "2026-10-19T14:47:40+08:00",
+    "elapsed_seconds": 60.029,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Rock &amp; Roll &lt;Test&gt;",
+          "author": "A &amp; B",
+          "year": "2020"
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Rock &amp; Roll &lt;Test&gt;",
+          "author": "A &amp; B",
+          "year": "2020"
+        }
+      ]
+    },
+    "stable": true
+  },
+  {
+    "case": "mongolian-text",
+    "oracle": "accept",
+    "time": "2026-10-19T14:48:43+08:00",
+    "elapsed_seconds": 60.043,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Өвлийн өглөө",
+          "author": "Ө.Үлэмж",
+          "year": "2026"
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "Өвлийн өглөө",
+          "author": "Ө.Үлэмж",
+          "year": "2026"
+        }
+      ]
+    },
+    "stable": true
+  },
+  {
+    "case": "root-array",
+    "oracle": "reject",
+    "time": "2026-10-19T14:49:45+08:00",
+    "elapsed_seconds": 60.027,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "",
+          "author": ""
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "",
+          "author": ""
+        }
+      ]
+    },
+    "stable": true
+  },
+  {
+    "case": "root-number",
+    "oracle": "reject",
+    "time": "2026-10-19T14:50:47+08:00",
+    "elapsed_seconds": 60.028,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "",
+          "author": ""
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "",
+          "author": ""
+        }
+      ]
+    },
+    "stable": true
+  },
+  {
+    "case": "root-boolean",
+    "oracle": "reject",
+    "time": "2026-10-19T14:51:50+08:00",
+    "elapsed_seconds": 60.029,
+    "before": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        }
+      ]
+    },
+    "post": {
+      "exit": 0,
+      "status": "HTTP/1.1 201 Created",
+      "body": {
+        "result": "OK",
+        "id": 4
+      }
+    },
+    "immediate": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "",
+          "author": ""
+        }
+      ]
+    },
+    "after_60s": {
+      "exit": 0,
+      "status": "HTTP/1.1 200 OK",
+      "body": [
+        {
+          "id": 1,
+          "title": "Тунгалаг Тамир",
+          "author": "Ч.Лодойдамба",
+          "year": 1971
+        },
+        {
+          "id": 2,
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "year": 2008
+        },
+        {
+          "id": 3,
+          "title": "The Pragmatic Programmer",
+          "author": "D.Thomas & A.Hunt",
+          "year": 1999
+        },
+        {
+          "id": 4,
+          "title": "",
+          "author": ""
+        }
+      ]
+    },
+    "stable": true
+  }
+]

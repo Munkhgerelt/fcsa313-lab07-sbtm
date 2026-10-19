@@ -1,0 +1,13 @@
+{
+  "recorded_at": "2026-10-19T14:45:33.3127711+08:00",
+  "timezone": "Asia/Ulaanbaatar (UTC+08:00)",
+  "os": "Microsoft Windows 11 Pro",
+  "os_version": "10.0.26300",
+  "node": "v24.19.0",
+  "browser": "Codex in-app browser, Chromium 155",
+  "browser_reported_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+  "browser_version_source": "Observed Network.requestWillBeSent request headers",
+  "app_sha256": "a2158dc202e62a18f11adcc0feca1d84fb6c6a9ec269b8eb63bc72f10eb27c6c",
+  "archive_sha256": "d7bea7fc18d278ba2a25b849aa4c59c2bfbd215d205795a4eab83e048ebdb0a3",
+  "curl": "curl 8.21.0 (Windows) libcurl/8.21.0 Schannel zlib/1.3.2 WinIDN WinLDAP"
+}
