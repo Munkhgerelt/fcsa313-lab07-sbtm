@@ -24,7 +24,7 @@ API-аар яг ижил хосыг нэмэхэд мөн [201 Created](../evide
 
 ## Дэлгэцийн нотолгоо
 
-![BUG-06 — Opera GX](../screenshots/opera-gx/bug-06.jpg)
+![BUG-06 — Opera GX](../screenshots/opera-gx-bug-06.jpg)
 
 Opera GX дээр 2026-10-19-нд дахин гаргасан. [Давталтын хүрээ ба бүртгэл](../evidence/opera-gx/verification.md). [Анхны Chromium зураг](../screenshots/bug-06.jpg) мөн хадгалагдсан.
 

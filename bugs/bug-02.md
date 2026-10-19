@@ -19,7 +19,7 @@
 
 ## Дэлгэцийн нотолгоо
 
-![BUG-02 — Opera GX](../screenshots/opera-gx/initial.jpg)
+![BUG-02 — Opera GX](../screenshots/opera-gx-initial.jpg)
 
 Opera GX дээр 2026-10-19-нд дахин гаргасан. [Давталтын хүрээ ба бүртгэл](../evidence/opera-gx/verification.md). [Анхны Chromium зураг](../screenshots/bug-02.jpg) мөн хадгалагдсан.
 

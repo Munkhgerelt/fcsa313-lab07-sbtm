@@ -24,7 +24,7 @@
 
 ## Дэлгэцийн нотолгоо
 
-![BUG-05 — Opera GX](../screenshots/opera-gx/bug-05.jpg)
+![BUG-05 — Opera GX](../screenshots/opera-gx-bug-05.jpg)
 
 Opera GX дээр 2026-10-19-нд дахин гаргасан. [Давталтын хүрээ ба бүртгэл](../evidence/opera-gx/verification.md). [Анхны Chromium зураг](../screenshots/bug-05.jpg) мөн хадгалагдсан.
 

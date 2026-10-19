@@ -91,29 +91,37 @@
       "bytes": 1430
     },
     {
-      "file": "screenshots/opera-gx/bug-04.jpg",
+      "file": "screenshots/opera-gx-bug-04.jpg",
       "sha256": "dc3d0430bd48f55eb428c36645a16471c9cbc0732575598f02847c4f43bfaa13",
       "bytes": 99697
     },
     {
-      "file": "screenshots/opera-gx/bug-05.jpg",
+      "file": "screenshots/opera-gx-bug-05.jpg",
       "sha256": "1291beca8be3fb4b566feb3491f28c5f8381e0b94752e9168a860e1648f5c1ca",
       "bytes": 102863
     },
     {
-      "file": "screenshots/opera-gx/bug-06.jpg",
+      "file": "screenshots/opera-gx-bug-06.jpg",
       "sha256": "51e2e23c8363645f8bf4fcc0318fa6391f8226f6cc4cb65d553ee97871f172af",
       "bytes": 103431
     },
     {
-      "file": "screenshots/opera-gx/bug-07-control.jpg",
+      "file": "screenshots/opera-gx-bug-07-control.jpg",
       "sha256": "006ff3fb19f05298c8699cbae7e4841f7ccf662a28dff1e2e77470c5c6061f0d",
       "bytes": 83714
     },
     {
-      "file": "screenshots/opera-gx/initial.jpg",
+      "file": "screenshots/opera-gx-initial.jpg",
       "sha256": "a2c961ec2759bae21ccd1826a31e5b699893851f97c5a54a5fd98932fd929906",
       "bytes": 95616
     }
-  ]
+  ],
+  "screenshot_relocations": {
+    "screenshots/opera-gx/bug-04.jpg": "screenshots/opera-gx-bug-04.jpg",
+    "screenshots/opera-gx/bug-05.jpg": "screenshots/opera-gx-bug-05.jpg",
+    "screenshots/opera-gx/bug-06.jpg": "screenshots/opera-gx-bug-06.jpg",
+    "screenshots/opera-gx/bug-07-control.jpg": "screenshots/opera-gx-bug-07-control.jpg",
+    "screenshots/opera-gx/initial.jpg": "screenshots/opera-gx-initial.jpg"
+  },
+  "screenshot_relocation_note": "Images moved into screenshots/; original retest.jsonl retains the paths recorded at capture time. Use screenshot_relocations to resolve them."
 }
