@@ -1,0 +1,119 @@
+{
+  "recorded_at": "2026-10-19T16:11:23+08:00",
+  "browser": "Opera GX",
+  "product_version": "136.0.6008.111",
+  "version_source": "ProductVersion and FileVersion of the running Opera GX executable, checked on 2026-10-19",
+  "os": "Microsoft Windows 11 Pro 10.0.26300",
+  "node": "v24.19.0",
+  "assistance": "AI-assisted native browser actions and background HTTP checks",
+  "ui_reproduced": [
+    "BUG-01",
+    "BUG-02",
+    "BUG-03",
+    "BUG-04",
+    "BUG-05",
+    "BUG-06"
+  ],
+  "ui_partial": {
+    "BUG-07": "Clean control query returned one row; lowercase Opera UI comparison was not completed."
+  },
+  "ui_not_retested_in_opera": [
+    "BUG-08",
+    "BUG-09",
+    "BUG-11",
+    "BUG-12",
+    "BUG-14"
+  ],
+  "background_http_reproduced": [
+    "BUG-07",
+    "BUG-09",
+    "BUG-10",
+    "BUG-13"
+  ],
+  "http_client": "curl.exe, independent of the browser",
+  "http_check_window": {
+    "start": "2026-10-19T16:07:24+08:00",
+    "end": "2026-10-19T16:07:31+08:00"
+  },
+  "bug_13_process_exited": true,
+  "bug_13_process_exit_checked_at": "2026-10-19T16:09:46+08:00",
+  "stop_reason": "Further native browser input takes focus; user asked to continue without interrupting their work.",
+  "original_session_unchanged": "The original 14:24:29-15:24:29 Chromium session remains a separate historical record.",
+  "files": [
+    {
+      "file": "evidence/opera-gx/bug-07-control-curl.txt",
+      "sha256": "669706e9774fff905daab8d516b47af9ba1ecff32af9aea0809270120f28db26",
+      "bytes": 249
+    },
+    {
+      "file": "evidence/opera-gx/bug-07-lower-curl.txt",
+      "sha256": "5fdcaa00b4a9923af5bea7d34e437cac67460956e44ed2dd30e00976e6374de6",
+      "bytes": 180
+    },
+    {
+      "file": "evidence/opera-gx/bug-09-curl.txt",
+      "sha256": "717b82d52935dd2e398539f4f7ca8b15fe0c1b25d6eade8af09e7f6e31d10ed4",
+      "bytes": 212
+    },
+    {
+      "file": "evidence/opera-gx/bug-10-after-curl.txt",
+      "sha256": "7c9afbfcf55ec11f59c33dbb64a6a4c94e871a10463df6c45b74fc02395f5913",
+      "bytes": 428
+    },
+    {
+      "file": "evidence/opera-gx/bug-10-before-curl.txt",
+      "sha256": "d1b481a77ca0dd1dbded4b41cdee086bc4231509859be00c795eebdffc9ff63e",
+      "bytes": 428
+    },
+    {
+      "file": "evidence/opera-gx/bug-10-post-curl.txt",
+      "sha256": "6e0f303457c6920e9d0c8f490d6fbe84e47cccf15ab2c3832f019c605e742e6c",
+      "bytes": 178
+    },
+    {
+      "file": "evidence/opera-gx/bug-13-after-curl.txt",
+      "sha256": "c0b0c70ab24766770b35525939fafca735760502bf04acb3ea8b338cdb801d8d",
+      "bytes": 90
+    },
+    {
+      "file": "evidence/opera-gx/bug-13-post-curl.txt",
+      "sha256": "60beb8e6b9477c3e1578614979934379dd171f3f5ca5428d9631c533440ee26e",
+      "bytes": 47
+    },
+    {
+      "file": "evidence/opera-gx/bug-13-server-error.txt",
+      "sha256": "873a2acc45d40ff593faf56cfd367578aa21ccdf745e36ad334f250e0d3388ef",
+      "bytes": 538
+    },
+    {
+      "file": "evidence/opera-gx/retest.jsonl",
+      "sha256": "8d5b6d1dbe533cc882fa6970d9d453047702f611abf0c5b161132053f23a6746",
+      "bytes": 1430
+    },
+    {
+      "file": "screenshots/opera-gx/bug-04.jpg",
+      "sha256": "dc3d0430bd48f55eb428c36645a16471c9cbc0732575598f02847c4f43bfaa13",
+      "bytes": 99697
+    },
+    {
+      "file": "screenshots/opera-gx/bug-05.jpg",
+      "sha256": "1291beca8be3fb4b566feb3491f28c5f8381e0b94752e9168a860e1648f5c1ca",
+      "bytes": 102863
+    },
+    {
+      "file": "screenshots/opera-gx/bug-06.jpg",
+      "sha256": "51e2e23c8363645f8bf4fcc0318fa6391f8226f6cc4cb65d553ee97871f172af",
+      "bytes": 103431
+    },
+    {
+      "file": "screenshots/opera-gx/bug-07-control.jpg",
+      "sha256": "006ff3fb19f05298c8699cbae7e4841f7ccf662a28dff1e2e77470c5c6061f0d",
+      "bytes": 83714
+    },
+    {
+      "file": "screenshots/opera-gx/initial.jpg",
+      "sha256": "a2c961ec2759bae21ccd1826a31e5b699893851f97c5a54a5fd98932fd929906",
+      "bytes": 95616
+    }
+  ]
+}

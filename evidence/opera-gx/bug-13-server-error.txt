@@ -1,0 +1,11 @@
+C:\Users\Munkhgerelt\Documents\Codex\2026-10-19\u\outputs\lab07\app.js:130
+        title: esc(data.title || ''),
+                        ^
+
+TypeError: Cannot read properties of null (reading 'title')
+    at IncomingMessage.<anonymous> (C:\Users\Munkhgerelt\Documents\Codex\2026-10-19\u\outputs\lab07\app.js:130:25)
+    at IncomingMessage.emit (node:events:509:28)
+    at endReadableNT (node:internal/streams/readable:1736:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+
+Node.js v24.19.0
