@@ -1,0 +1,9 @@
+{
+  "cloned_at": "2026-10-19T15:31:09+08:00",
+  "remote": "https://github.com/Munkhgerelt/fcsa313-lab07-sbtm.git",
+  "commit": "41765f0e4006999ee3ae0c031d39dd161997643f",
+  "app_sha256": "a2158dc202e62a18f11adcc0feca1d84fb6c6a9ec269b8eb63bc72f10eb27c6c",
+  "bug_report_count": 14,
+  "reports_match_published_commit": true,
+  "purpose": "Replay report steps on a fresh clone; original student manual replay is still required."
+}
