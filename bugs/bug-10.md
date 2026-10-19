@@ -27,3 +27,7 @@ curl.exe -i -X POST http://localhost:3000/api/books -H "Content-Type: applicatio
 API-ийн үндсэн нотолгоо: [bug-10-curl.txt](../evidence/bug-10-curl.txt). Энэ нь HTTP статусын мөр, бүх толгой, хариуны биетэй `curl -i`-ийн бүрэн гаралт. Дараах төлөв: [bug-10-after-curl.txt](../evidence/bug-10-after-curl.txt).
 
 Oracle: багшийн Lab07 PDF-ийн 2-р хуудасны спецификаци; тусгайлан заасан хэсэгт ердийн хэрэглээний хүлээлт ашигласан.
+
+## 2026-10-19-ний нэмэлт шалгалт
+
+Нэмэлт HTTP давталтаар `{broken` дахин 200 OK хариулж, өмнөх болон дараах гурван номын жагсаалт ижил байсан. [Бүрэн гаралт ба хамрах хүрээ](../evidence/opera-gx/verification.md#цаана-нь-хийсэн-http-шалгалт).
